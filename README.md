@@ -4,6 +4,7 @@
 
 ## 🚀 Projects
 - 📊 [Adidas Sales Dashboard](https://avani-aravind-kfvh8gy5madsed6dh8r85m.streamlit.app/) — Interactive sales analytics built with Streamlit & Plotly
+- (http://127.0.0.1:52934) - Statistical Pairs Trading Engine (Cointegration-Based)
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
